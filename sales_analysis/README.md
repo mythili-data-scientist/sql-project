@@ -1,12 +1,11 @@
-# 🧾 Sales Analysis Project
+# SQL Projects
 
-**Goal:** Analyze sales data to identify top-performing products and revenue trends.
+This repository contains SQL queries and analysis projects for data extraction, transformation, and insights.
 
-## 📊 Key SQL Concepts Used
-- Aggregate functions (SUM, COUNT)
-- GROUP BY, ORDER BY
-- LIMIT for ranking results
+## 📁 Projects
 
-## 🧠 Insights
-- Identified top 5 products generating the highest revenue.
-- Found sales trends across different regions and periods.
+1. **[Sales Analysis](./sales_analysis)** – Analyze sales data and identify top-performing products.
+
+---
+
+⭐ Stay tuned for more SQL projects like customer segmentation and HR analytics.
